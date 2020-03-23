@@ -1,18 +1,24 @@
 [submodule "bashhome"]
 	path = bashhome
 	url = https://github.com/shroysha/bashhome.git
+	branch = master
 [submodule "gmod_math"]
 	path = gmod_math
 	url = https://github.com/shroysha/gmod_math.git
+	branch = master
 [submodule "openaigym_2048"]
 	path = openaigym_2048
 	url = https://github.com/shroysha/openaigym_2048.git
+	branch = master
 [submodule "openaigym_stocks"]
 	path = openaigym_stocks
 	url = https://github.com/shroysha/openaigym_stocks.git
+	branch = master
 [submodule "amdgraphicsfix"]
 	path = amdgraphicsfix
 	url = https://github.com/shroysha/amdgraphicsfix.git
+	branch = master
 [submodule "resumegen"]
 	path = resumegen
 	url = https://github.com/shroysha/resumegen.git
+	branch = master
