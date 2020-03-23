@@ -1,5 +1,5 @@
 # py
-> see code: [https://github.com/shroysha/py](https://github.com/shroysha/py)
+{*> see code: [https://github.com/shroysha/py](https://github.com/shroysha/py)*}
 
 ## Subprojects 
 1. [amdgraphicsfix](https://github.com/shroysha/amdgraphicsfix)
