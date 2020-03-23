@@ -1,5 +1,5 @@
 # py
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/py](https://github.com/shroysha/shroysha.github.io/tree/master/py)
+> see code: [https://github.com/shroysha/py](https://github.com/shroysha/py)
 
 ## Subprojects 
 1. [amdgraphicsfix](amdgraphicsfix)
