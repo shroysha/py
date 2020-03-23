@@ -1,0 +1,15 @@
+[submodule "bashhome"]
+	path = bashhome
+	url = https://github.com/shroysha/bashhome.git
+[submodule "gmod_math"]
+	path = gmod_math
+	url = https://github.com/shroysha/gmod_math.git
+[submodule "openaigym_2048"]
+	path = openaigym_2048
+	url = https://github.com/shroysha/openaigym_2048.git
+[submodule "openaigym_stocks"]
+	path = openaigym_stocks
+	url = https://github.com/shroysha/openaigym_stocks.git
+[submodule "amdgraphicsfix"]
+	path = amdgraphicsfix
+	url = https://github.com/shroysha/amdgraphicsfix.git
