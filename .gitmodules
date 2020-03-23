@@ -13,3 +13,6 @@
 [submodule "amdgraphicsfix"]
 	path = amdgraphicsfix
 	url = https://github.com/shroysha/amdgraphicsfix.git
+[submodule "resumegen"]
+	path = resumegen
+	url = https://github.com/shroysha/resumegen.git
