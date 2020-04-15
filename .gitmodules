@@ -2,17 +2,17 @@
 	path = bashhome
 	url = https://github.com/shroysha/bashhome.git
 	branch = master
-[submodule "gmod_math"]
-	path = gmod_math
-	url = https://github.com/shroysha/gmod_math.git
+[submodule "gmod-math"]
+	path = gmod-math
+	url = https://github.com/shroysha/gmod-math.git
 	branch = master
-[submodule "openaigym_2048"]
-	path = openaigym_2048
-	url = https://github.com/shroysha/openaigym_2048.git
+[submodule "openaigym-2048"]
+	path = openaigym-2048
+	url = https://github.com/shroysha/openaigym-2048.git
 	branch = master
-[submodule "openaigym_stocks"]
-	path = openaigym_stocks
-	url = https://github.com/shroysha/openaigym_stocks.git
+[submodule "openaigym-stocks"]
+	path = openaigym-stocks
+	url = https://github.com/shroysha/openaigym-stocks.git
 	branch = master
 [submodule "amdgraphicsfix"]
 	path = amdgraphicsfix
