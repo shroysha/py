@@ -22,3 +22,11 @@
 	path = resumegen
 	url = https://github.com/shroysha/resumegen.git
 	branch = master
+[submodule "stocks-tensorflow-gym"]
+	path = stocks-tensorflow-gym
+	url = https://github.com/shroysha/stocks-tensorflow-gym.git
+	branch = master
+[submodule "t48-tensorflow-gym"]
+	path = t48-tensorflow-gym
+	url = https://github.com/shroysha/t48-tensorflow-gym.git
+	branch = master
