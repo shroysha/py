@@ -6,17 +6,9 @@
 	path = bashhome
 	url = https://github.com/shroysha/bashhome.git
 	branch = master
-[submodule "gmod-math"]
-	path = gmod-math
-	url = https://github.com/shroysha/gmod-math.git
-	branch = master
 [submodule "resumegen"]
 	path = resumegen
 	url = https://github.com/shroysha/resumegen.git
-	branch = master
-[submodule "stocks-gym-tensorflow"]
-	path = stocks-gym-tensorflow
-	url = https://github.com/shroysha/stocks-gym-tensorflow.git
 	branch = master
 [submodule "t48-gym-tensorflow"]
 	path = t48-gym-tensorflow
