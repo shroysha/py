@@ -7,7 +7,7 @@
 1. [t48-gym-tensorflow](https://github.com/shroysha/t48-gym-tensorflow)
 
 ## Description
-null
+My collection of Python projects
 
 ### Tags
 []
